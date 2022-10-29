@@ -1,4 +1,4 @@
-Quick Reference
+Cheatsheet
 ===
 
 <!--rehype:ignore:start-->
